@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Dangers of Gambling</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Dangers of Gambling</h1>
+        <p>Your resource for understanding the risks and finding help.</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#what-is-gambling">What is Gambling?</a></li>
+            <li><a href="#risks">The Risks of Gambling</a></li>
+            <li><a href="#help">Resources for Help</a></li>
+            <li><a href="#stories">Personal Stories</a></li>
+            <li><a href="#faq">FAQs</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <section id="what-is-gambling">
+        <h2>What is Gambling?</h2>
+        <p>Gambling is the act of wagering money or something of value on an event with an uncertain outcome...</p>
+    </section>
+
+    <section id="risks">
+        <h2>The Risks of Gambling</h2>
+        <p>Gambling can lead to addiction, financial problems, and emotional distress...</p>
+    </section>
+
+    <section id="help">
+        <h2>Resources for Help</h2>
+        <p>If you or someone you know is struggling with gambling addiction, there are resources available:</p>
+        <ul>
+            <li><a href="https://www.ncpgambling.org">National Council on Problem Gambling</a></li>
+            <li><a href="http://www.gamblersanonymous.org">Gamblers Anonymous</a></li>
+            <li><a href="https://www.gamcare.org.uk">GamCare</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 The Dangers of Gambling. All rights reserved.</p>
+    </footer>
+</body>
+</html>
